@@ -1,78 +1,166 @@
-# 💼 Mohamed Jafran Portfolio
+# Mohamed Jafran – Portfolio
 
-A modern, responsive personal portfolio showcasing my skills, projects, internship experience, and contact information.
+Welcome to my personal portfolio website.
 
-## 🌐 Live Portfolio
+I am *M. A. Mohamed Jafran, a B.Tech Information Technology graduate with hands-on experience in **Python, Flask, Backend Development, Web Development, AWS and Cloud Computing*.
 
+This portfolio showcases my technical skills, projects, internship experience and professional links.
+
+## 🌐 Portfolio
+
+*Live Portfolio:*  
 https://mohamed-jafran-portfolio.netlify.app/
 
 ## 👨‍💻 About Me
 
-Hi, I'm *M. A. Mohamed Jafran*, an Information Technology graduate passionate about Python, Backend Development, REST APIs, and Cloud Computing. I enjoy building scalable backend applications and continuously learning new technologies.
+I am an aspiring software developer interested in building web applications, backend systems and cloud-based solutions.
 
-## 🚀 Features
+My primary technical interests include:
 
-- Responsive Design
-- Modern UI
-- About Section
-- Skills Section
-- Project Showcase
-- Internship Experience
-- Download Resume
-- GitHub & LinkedIn Links
-- Contact Section
+- Python Development
+- Backend Development
+- REST API Development
+- Flask
+- MySQL
+- AWS & Cloud Computing
+- Web Development
 
-## 🛠️ Technologies Used
+## 🛠️ Technical Skills
 
+### Programming
+- Python
+- C
+- C++
+- JavaScript
+
+### Backend
+- Flask
+- REST APIs
+- JWT Authentication
+- CRUD Operations
+- API Development
+
+### Database
+- MySQL
+- SQL
+
+### Cloud & AWS
+- Amazon EC2
+- Amazon S3
+- AWS Lambda
+- Amazon RDS
+- Amazon VPC
+- IAM
+- Cloud Deployment
+
+### Frontend
 - HTML5
 - CSS3
 - JavaScript
-- Font Awesome
 
-## 📂 Projects
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Linux
 
-### 🎓 Student Management REST API
-Developed using Python, Flask, and MySQL with complete CRUD operations.
+## 🚀 Projects
 
-### 🔐 JWT Authentication API
-Implemented secure user authentication using JSON Web Tokens (JWT).
+### 1. NewsPulse – Scalable News Publishing & Analytics Platform on AWS
 
-### 🌦️ Weather App
-Responsive weather application using HTML, CSS, JavaScript, and OpenWeatherMap API.
+A cloud-based news publishing platform developed using Python, Flask, MySQL and AWS services.
 
-### 📁 File Storage System
-Python-based file management system for storing and organizing files.
+*Technologies:*
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- AWS
 
-## 💼 Internship
+*AWS Services:*
+- S3
+- EC2
+- Lambda
+- RDS
+- VPC
 
-*Web Development Intern*  
-*Space Zee Technologies Pvt. Ltd.*
+🔗 *GitHub:*  
+https://github.com/jafranmohamed383-bot/Newspulse-AWS
 
-- Developed backend applications using Python and Flask.
-- Worked with REST APIs and MySQL.
-- Tested APIs using Postman.
-- Used Git and GitHub for version control.
+### 2. Cloud Document Manager
 
-## 🛠️ Skills
+A cloud-based document management application using Python, Flask and AWS services.
 
+*Technologies:*
+- Python
+- Flask
+- AWS S3
+- AWS EC2
+- IAM
+
+### 3. JWT Authentication API
+
+Backend authentication system implementing secure user authentication using JWT.
+
+*Technologies:*
 - Python
 - Flask
 - REST API
-- JWT Authentication
-- HTML5
-- CSS3
-- JavaScript
+- JWT
 - MySQL
-- Git & GitHub
-- Cloud Computing
 
-## 📄 Resume
+### 4. E-Commerce API
 
-Download the latest resume directly from the portfolio website.
+Backend API project implementing core e-commerce functionality using REST APIs.
 
-## 📬 Contact
+### 5. Student Management API
 
-*Email:* jafranmohamed383@gmail.com
+REST API for managing student-related information using Python, Flask and MySQL.
+
+### 6. Weather App
+
+A web application that displays weather information using JavaScript and API integration.
+
+## 💼 Internship Experience
+
+### Cloud Computing Intern – INFYRO
+
+*03 August 2026 – 02 September 2026*
+
+Worked with cloud computing concepts and AWS cloud services including infrastructure, deployment, networking and security.
+
+Developed and deployed the *NewsPulse – Scalable News Publishing & Analytics Platform on AWS*.
+
+### Web Development Intern – Space Zee Technologies Private Limited
+
+*23 July 2025 – 01 August 2025*
+
+Developed a portfolio website using:
+
+- HTML
+- CSS
+- Python
+- Flask
+
+Worked on both frontend and backend components of the website.
+
+## 🎓 Education
+
+*B.Tech – Information Technology*  
+M.I.E.T Engineering College, Tiruchirappalli  
+2022 – 2026
+
+*CGPA:* 7.66 / 10
+
+## 📜 Certifications
+
+- Cloud Computing Internship – INFYRO
+- Web Development Internship – Space Zee Technologies Private Limited
+
+## 🔗 Connect With Me
 
 *LinkedIn:*  
 https://www.linkedin.com/in/mohamed-jafran-570912376/
@@ -83,6 +171,12 @@ https://github.com/jafranmohamed383-bot
 *Portfolio:*  
 https://mohamed-jafran-portfolio.netlify.app/
 
+## 📄 Resume
+
+My resume is available through my portfolio website.
+
 ---
 
-⭐ If you like this project, don't forget to *Star* this repository.
+### ⭐ Thanks for visiting my portfolio!
+
+If you are interested in my work or would like to connect, feel free to reach out.
